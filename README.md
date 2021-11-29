@@ -9,7 +9,7 @@
 
 ## Results
 
-### Addressing each Outcome
+### Addressing each Outcome:
 
 Using Jupiter, I created a python file from the data that helped me to replace all the 9th grade student's grades at Thomas High School with NaN:
 
@@ -25,4 +25,7 @@ I then repeated the school district analysis I did in this module, and recreated
  - The average reading score for each grade level from each school
  - The scores by school spending per student, by school size, and by school type
 
-#### The district summary
+For this task, I recalculated the total student count by subtracting the number of ninth-grade students in Thomas High School from the total student count, then I recalculated the passing math and passing reading percentages, and the overall passing percentage with the recalculated total student count:
+![Screenshot (30)](https://user-images.githubusercontent.com/91230277/143793721-694b26fd-16b1-4476-90f5-b6b57c177b45.png)
+
+ - 
