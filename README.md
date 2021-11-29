@@ -9,7 +9,7 @@
 
 ## Results
 
-### Addressing each Outcome:
+### Addressing the Process:
 
 Using Jupiter, I created a python file from the data that helped me to replace all the 9th grade student's grades at Thomas High School with NaN:
 
@@ -55,7 +55,12 @@ I then executed the code from this module that creates and formats the School Su
 
 ### Final Thoughts:
 
- - 
+Based on the original info and the now cleaned data, the 4 major changes in the updated school district analysis are as follows:
+
+ - After the reform, average math and reading results declined marginally at the district level, but substantially at the school and grade level.
+ - After the move, Thomas High School, which was rated second, slid out of the top five schools and into the number eight spot.
+ - After the modification, Thomas High School's proportion of passing pupils in math, reading, and overall was considerably influenced at the school and grade level.
+ - Whatever group of kind, size, and school expenditure per student Thomas High School came under, all academic metrics linked to math, reading, and total score were substantially reduced.
 
 
  
