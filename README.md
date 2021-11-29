@@ -40,12 +40,22 @@ I then executed the code from this module that creates and formats the School Su
 ![Screenshot (35)](https://user-images.githubusercontent.com/91230277/143794113-f5da9ef9-2737-4f62-b7d2-2c1a718ac43d.png)
  - I then replaced the % Passing Math, % Passing Reading, and % Overall Passing scores in the current School Summary DataFrame with the new passing percentages for Thomas High School:
 ![Screenshot (37)](https://user-images.githubusercontent.com/91230277/143794182-ca9d857f-7a94-472b-bb29-70106084d39c.png)
- - I finally, I showed the top 5 and bottom 5 performing schools, based on the overall passing rate, the average math score for each grade level from each school, the average reading score for each grade level from each school, and the scores by school spending per student, by school size, and by school type:
+ - I finally, I showed the top 5 and bottom 5 performing schools, based on the overall passing rate, 
 ![Screenshot (38)](https://user-images.githubusercontent.com/91230277/143794323-087385f1-82b9-476e-a984-15b5ac53ec97.png)
+ - the average math score for each grade level from each school, 
 ![Screenshot (39)](https://user-images.githubusercontent.com/91230277/143794385-649d19b2-2269-4a97-9360-79aa90fe9ae4.png)
+ - the average reading score for each grade level from each school, 
 ![Screenshot (40)](https://user-images.githubusercontent.com/91230277/143794498-e8f6482a-a5b4-4c92-9b15-1c210a8be9ab.png)
+ - and the scores by school spending per student, by school size, and by school type:
+![Screenshot (41)](https://user-images.githubusercontent.com/91230277/143794603-d80786ab-9aaa-4411-b366-fc323af063dc.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/91230277/143794660-3500bf62-5f69-417d-a575-e81247875a6b.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/91230277/143794781-3db589e2-0020-4b22-9530-a8c8c4656a4c.png)
 
+## School Analysis Summary
 
+### Final Thoughts:
+
+ - 
 
 
  
